@@ -25,5 +25,8 @@ OS:Windows10
 * get_data.py  
   取得したい統計データを選択後、e-StatのAPIを使用し選択したデータをcsv形式で取得するためのプログラム。
   
+### 使用方法
+上記4つのプログラムを同じディレクトリに配置し、estat_data.pyを実行する。
+
 ### 実行画面
 ![実行画面](https://github.com/jiromaru/estat_data/blob/images/estat_images.png?raw=true)
