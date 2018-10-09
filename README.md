@@ -26,4 +26,4 @@ OS:Windows10
   取得したい統計データを選択後、e-StatのAPIを使用し選択したデータをcsv形式で取得するためのプログラム。
   
 ### 実行画面
-![実行画面](https://github.com/jiromaru/boj_data/blob/images/boj_images.png?raw=true)
+![実行画面](https://github.com/jiromaru/estat_data/blob/images/estat_images.png?raw=true)
